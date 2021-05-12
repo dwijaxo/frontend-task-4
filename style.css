@@ -1,0 +1,56 @@
+*{
+    padding: 0;
+    margin: 0%;
+}
+
+body{
+    font-family: 'Inter', sans-serif;
+}
+
+.navbar{
+    background-color: #98c1d9;
+}
+.nav-link{
+    font-size: 20px; 
+    padding: 5%;  
+}
+.nav-item{
+    margin-right:30px;
+}
+.navbar-brand{
+    font-size: 22px;
+}
+
+h1{
+    text-align: center;
+    margin-top: 5%;
+}
+
+hr{
+    width: 20%;
+    margin: auto;
+    height: 4px;
+    background-color: #98c1d9;
+    border-radius: 20px;
+}
+
+.btn{
+    margin: auto;
+}
+.land-line{
+    text-align: center;
+    padding-top: 6%;
+    font-size: 26px;
+}
+.btn {
+    background-color: #98c1d9;
+    color: black;
+    border: none;
+    margin-top: 3%;
+    font-size: 22px;
+}
+
+.btn:hover{
+    color: white;
+    background-color: #2a6f97;
+}
